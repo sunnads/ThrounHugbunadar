@@ -15,3 +15,5 @@ Alexander Freyr Sveinsson,
 Brynja Pálína Sigurgeirsdóttir,
 
 Sunna Dröfn Sigfúsdóttir
+
+
